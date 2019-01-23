@@ -2,6 +2,12 @@
 
 # Flash-Chat
 
+
+1                          |  2
+:-------------------------:|:-------------------------:
+![](FlashChat-image1.png)  |  ![](FlashChat-image2.png)
+
+
 ## Podfile Configuration
 ```
 post_install do |installer|
